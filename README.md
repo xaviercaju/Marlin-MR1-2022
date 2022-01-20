@@ -9,3 +9,6 @@ Polamento added new changes in 2020 to enhance Marlin 1.1.9 in this printers, br
 - Calibrate extruder steps by screen
 - Translation to Spanish
 
+You MUST also install the screen software:
+
+https://github.com/Polamento/dwin-MR1
